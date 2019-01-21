@@ -1,0 +1,7 @@
+major: write_major({0}, {1})
+minor: write_minor({0}, {1})
+augmented: write_aug({0}, {1})
+diminished: write_dim({0}, {1})
+major suspended 4: write_major_sus4({0}, {1})
+major suspended 2: write_major_sus2({0}, {1})
+major suspended 24: write_major_sus24({0}, {1})
